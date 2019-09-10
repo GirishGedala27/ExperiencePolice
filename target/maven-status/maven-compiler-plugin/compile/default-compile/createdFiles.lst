@@ -1,0 +1,13 @@
+com\experiencepolice\domain\Profile$ProfileBuilder.class
+com\experiencepolice\domain\Job$JobBuilder.class
+com\experiencepolice\service\SearchExperienceService.class
+com\experiencepolice\domain\Job.class
+com\experiencepolice\ExperiencePolice.class
+com\experiencepolice\service\configuration\ElasticSearchConfiguration.class
+com\experiencepolice\domain\SearchExperienceResponse.class
+com\experiencepolice\domain\SearchExperienceRequest.class
+com\experiencepolice\domain\SearchExperienceRequest$SearchExperienceRequestBuilder.class
+com\experiencepolice\domain\Profile.class
+com\experiencepolice\controller\SearchExperienceController.class
+com\experiencepolice\domain\SearchExperienceResponse$SearchExperienceResponseBuilder.class
+com\experiencepolice\service\ElasticSearchService.class
